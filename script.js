@@ -1,3 +1,3 @@
-const someValue = require("./math");
+import {sum , PI} from "./math.js";
 
-console.log(someValue);
+console.log(sum(1,2));

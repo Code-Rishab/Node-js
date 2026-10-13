@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend - Node js",
+  "main": "math.js",
+  "dependencies": {
+    "figlet": "^1.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Rishab/Node-js.git"
+  },
+  "author": "K Rishab Reddy",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Code-Rishab/Node-js/issues"
+  },
+  "homepage": "https://github.com/Code-Rishab/Node-js#readme"
+}
